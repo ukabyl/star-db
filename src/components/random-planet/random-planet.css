@@ -1,0 +1,33 @@
+.random-planet__jumbotron{
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+}
+
+.random-planet__img{
+    width: 200px;
+    height: 200px;
+    width: 20%;
+    display: flex;
+    align-items: center;
+}
+.random-planet__img img{
+    width: 100%;
+}
+
+.random-planet__list-group{
+    display: flex;
+}
+
+.random-planet__list-group li {
+    width: 100%;
+    display: block;
+}
+
+.random-planet__details{
+    width: 40%;
+    margin-left: 20px;
+}
+
+.random-planet__details h1{
+}

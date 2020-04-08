@@ -1,5 +1,5 @@
 ## You can see this in 
-      https://ukabyl.github.io/star-db/
+      [https://ukabyl.github.io/star-db/] [Star DB]
       
 ## Technologies used:
        fetch
